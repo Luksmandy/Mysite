@@ -187,6 +187,10 @@ p{color:#EFEAD8}
     color:#C2DED1;
  }
 
+a:hover{
+    color:#6D8B74;
+}
+
  .red{
     height: 100px;
     width: 100px;
